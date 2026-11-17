@@ -1,0 +1,6 @@
+@tarefas_e_eventos.API_HostAddress = http://localhost:5029
+
+GET {{tarefas_e_eventos.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
